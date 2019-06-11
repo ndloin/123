@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Zijin Zhang Personal Webpage!"
 date:   2019-06-11 21:13:09 +0800
 categories: jekyll update
 ---
