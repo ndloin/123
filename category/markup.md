@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Activities
 ---
 
 Another sample category page.
